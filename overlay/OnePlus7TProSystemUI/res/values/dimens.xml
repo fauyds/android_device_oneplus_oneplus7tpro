@@ -29,4 +29,11 @@
     <dimen name="keyguard_carrier_text_margin">95px</dimen>
 
     <dimen name="keyguard_indication_margin_bottom">15dp</dimen>
+
+    <!--  Lockscreen shortcut horizontal padding.  -->
+    <dimen name="keyguard_affordance_horizontal_offset">29dp</dimen>
+     
+    <!--  Bottom QQS padding.  -->
+    <dimen name="qqs_layout_padding_bottom">24dp</dimen>
+    
 </resources>
